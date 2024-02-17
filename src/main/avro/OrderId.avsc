@@ -1,0 +1,14 @@
+{
+  "name": "OrderId",
+  "namespace": "avro.schema.generated",
+  "type": "record",
+  "fields": [
+    {
+      "name": "id",
+      "type": {
+        "type": "string",
+        "logicalType": "uuid"
+      }
+    }
+  ]
+}

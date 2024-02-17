@@ -1,0 +1,16 @@
+avro\schema\generated\OrderLineItem$Builder.class
+avro\schema\generated\OrderUpdateEvent$Builder.class
+avro\schema\generated\Status.class
+avro\schema\generated\Order.class
+avro\schema\generated\OrderLineItem.class
+avro\schema\generated\Address$Builder.class
+avro\schema\generated\Order$Builder.class
+avro\schema\generated\Size.class
+avro\schema\generated\PickUp.class
+avro\schema\generated\OrderId$Builder.class
+avro\schema\generated\OrderUpdateEvent.class
+avro\schema\generated\OrderStatus.class
+avro\schema\generated\Address.class
+avro\schema\generated\OrderId.class
+avro\schema\generated\Store$Builder.class
+avro\schema\generated\Store.class
